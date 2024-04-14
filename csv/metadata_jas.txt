@@ -1,0 +1,11 @@
+
+Data description of the file "jas.csv"
+
+This file contains the number of articles published in Journal of Archaeological Science (JAS ) from 2012 to 2021 providing reproducible research.
+
+Here the description of each field
+
+Year (numeric): publication year
+n (numeric): number of articles providing reproducible research
+% (numeric): percentage of articles providing reproducible research
+total (numeric): total number of articles published in JAS

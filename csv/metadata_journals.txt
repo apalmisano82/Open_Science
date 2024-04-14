@@ -1,0 +1,12 @@
+
+Data description of the file "journals.csv"
+
+This file contains the number of articles providing data and reproducible research between 2020-2021 in Journal of Archaeological Science (JAS), Journal of Archaeological Method and Theory (JAMT), Journal of Computer Applications in Archaeology (JCAA), and Plos ONE. 
+
+Here the description of each field.
+
+method (character): method for data sharing and reproducibility
+JAS (numeric): percentage of articles  for each method of data sharing and reproducibility in JAS
+JAMT (numeric): percentage of articles  for each method of data sharing and reproducibility in JAMT
+JCAA (numeric): percentage of articles  for each method of data sharing and reproducibility in JCAA
+Plos One (numeric): percentage of articles  for each method of data sharing and reproducibility in Plos One. 
