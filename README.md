@@ -11,10 +11,10 @@ The digital archive related to this paper provides a dataset and a script writte
 
 ###### CONTENTS ######
 
-#R_script
+# R_script
 * Script for reproducing figures 1 and 3 (code.R) 
 
-#Folder "csv"
+# Folder "csv"
 * csv file of the data shown in table 1 of the paper (data.csv).
 * csv file of the articles published in Journal of Archaeological Science (JAS) providing reproducible research (jas.csv)
 * csv file of the percentage of articles providing data and reproducible research in four methods-based archaeology journals published between 2020-2021 (journals.csv)
@@ -22,7 +22,7 @@ The digital archive related to this paper provides a dataset and a script writte
 * A .txt file providing the field description for the attributes of the file "jas.csv" (metadata_jas.txt)
 * A .txt file providing the field description of the attributes of the file "journals.csv" (metadata_journals.txt)
 
-#Folder "pdf"
+# Folder "pdf"
 an empty folder where to store the figures outputted via the R scripts provided here. 
 
 ###### Licences
