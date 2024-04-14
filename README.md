@@ -1,8 +1,3 @@
----
-title: "The Good, the Bad and the Ugly: Evaluating Open Science Practices in Archaeology README"
-authors: Alessio Palmisano, Andrea Titolo
-dataset_version: 1.0
----
 
 # The Good, the Bad and the Ugly: Evaluating Open Science Practices in Archaeology (dataset and R script) 
 The present digital archive is the output of the paper: Palmisano, A., and Titolo, under review. The Good, the Bad and the Ugly: Evaluating Open Science Practices in Archaeology. Archeologia e Calcolatori. 
