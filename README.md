@@ -3,7 +3,7 @@
 
 #### Alessio Palmisano, Andrea Titolo
 
-The present digital archive is the output of the paper: Palmisano, A., and Titolo, under review. The Good, the Bad and the Ugly: Evaluating Open Science Practices in Archaeology. Archeologia e Calcolatori. 
+The present digital archive is the output of the paper: Palmisano, A., and Titolo, A., under review. The Good, the Bad and the Ugly: Evaluating Open Science Practices in Archaeology. Archeologia e Calcolatori. 
 
 The digital archive related to this paper provides a dataset and a script written in R statistical computing language to reproduce figures 1 and 3 in the original paper. 
 
