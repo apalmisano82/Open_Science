@@ -22,9 +22,6 @@ The digital archive related to this paper provides a dataset and a script writte
 * A .txt file providing the field description for the attributes of the file "jas.csv" (metadata_jas.txt)
 * A .txt file providing the field description of the attributes of the file "journals.csv" (metadata_journals.txt)
 
-# Folder "pdf"
-an empty folder where to store the figures outputted via the R scripts provided here. 
-
 ###### Licences
 Dataset: CC-BY (http://creativecommons.org/licenses/by/4.0/)
 
