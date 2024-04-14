@@ -1,5 +1,7 @@
 
 # The Good, the Bad and the Ugly: Evaluating Open Science Practices in Archaeology (dataset and R script) 
+[![DOI](https://zenodo.org/badge/786521478.svg)](https://zenodo.org/doi/10.5281/zenodo.10971325)
+[![version](https://img.shields.io/badge/version-6.0-cyan.svg)](https://github.com/apalmisano82/Open_Science)
 
 #### Alessio Palmisano, Andrea Titolo
 
